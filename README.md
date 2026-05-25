@@ -1,4 +1,3 @@
-Overview
 This project prepares and cleans an e-commerce dataset for analysis.
 The goal is to remove duplicates, handle missing values, standardize text, and verify data integrity.
 
